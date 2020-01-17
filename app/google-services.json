@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "623549776409",
+    "firebase_url": "https://recipe-app-86bed.firebaseio.com",
+    "project_id": "recipe-app-86bed",
+    "storage_bucket": "recipe-app-86bed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623549776409:android:e18fda39537b4690fd6088",
+        "android_client_info": {
+          "package_name": "com.fourtitude.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623549776409-o4cqbgps9j7b9o6cthr53jcqsimt3va4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fourtitude.recipeapp",
+            "certificate_hash": "8a49158720a2ebae8039b7b3d30cebe77f89f196"
+          }
+        },
+        {
+          "client_id": "623549776409-h0mau9hue66vplc2t2jjq1c9akmgghv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbUEWVz9SQjL5UtSDkBbtlJm6W4G2FgDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623549776409-h0mau9hue66vplc2t2jjq1c9akmgghv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

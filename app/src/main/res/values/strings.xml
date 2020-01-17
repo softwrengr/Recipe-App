@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+
+    <string name="title">Recipe Title</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_favourite">Favourite</string>
+    <string name="title_add">Add Recipe</string>
+</resources>
